@@ -1,1 +1,3 @@
 # emos
+
+version init...
